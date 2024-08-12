@@ -1,5 +1,5 @@
 {
-    "name": "jakyeru/laravel-shell",
+    "name": "devcortez/laravel-shell",
     "description": "Laravel-Shell adds a terminal interface to your web application, allowing you to run shell commands directly from your browser.",
     "type": "library",
     "require": {
